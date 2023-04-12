@@ -1,1 +1,5 @@
 # chatbot
+
+```
+python main.py
+```
